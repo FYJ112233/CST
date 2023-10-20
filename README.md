@@ -19,8 +19,8 @@ This is the official implementation of our paper: Cross-modality Spatial-tempora
 First, you may need to manually define the data path. Then, you need to run the code on 1 GPU of A6000 with 48G memory. 
 
 ### 3. Testing
-The model in  [Baidu Netdisk](https://pan.baidu.com/s/1zYGCQWI9dvLOjZZcFA6nYw?pwd=ggxv).
-Password: ggxv
+The model in  [Baidu Netdisk](https://pan.baidu.com/s/1hbMjDZos0TBUdS_dAUunnA?pwd=pz55).
+Password: pz55
 
 ### 4. Results.
 |  Methods | Infrared - Visible | Visible - Infrared |
