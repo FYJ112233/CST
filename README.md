@@ -18,7 +18,10 @@ This is the official implementation of our paper: Cross-modality Spatial-tempora
 
 First, you may need to manually define the data path. Then, you need run the code on 1 GPU of A6000 with 48G memory. 
 
-### 3. Results.
+### 3. Testing
+The model in Baidu Netdisk: https://pan.baidu.com/s/1zYGCQWI9dvLOjZZcFA6nYw?pwd=ggxv, password: ggxv
+
+### 4. Results.
 |  Methods | Infrared - Visible | Visible - Infrared |
 |----------|--------------------|--------------------|
 |          | R1,  mAP            | R1,  mAP            |
@@ -28,7 +31,7 @@ First, you may need to manually define the data path. Then, you need run the cod
 | Our      |  69.44,  51.16                 |  72.64,     53.00              |
 
 
-### 4. References
+### 5. References
 
 ```
 [1] Lin X, Li J, Ma Z, et al. Learning modal-invariant and temporal-memory for video-based visible-infrared person re-identification[C]. Computer Vision and Pattern Recognition. 2022: 20973-20982.
@@ -43,7 +46,7 @@ First, you may need to manually define the data path. Then, you need run the cod
 ```
 
 
-### 5. Acknowledgments
+### 6. Acknowledgments
 The code was developed based on the CAJL [1] and MITML[3].  
 Thanks for [1], [2], [3] providing visible-infrared reid code base and dataset.
 
