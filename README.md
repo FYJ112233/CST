@@ -16,7 +16,7 @@ This is the official implementation of our paper: Cross-modality Spatial-tempora
   - `--gpu`:  which gpu to run.
   
 
-First, you may need to manually define the data path. Then, you need run the code on 1 GPU of A6000 with 48G memory. 
+First, you may need to manually define the data path. Then, you need to run the code on 1 GPU of A6000 with 48G memory. 
 
 ### 3. Testing
 The model in  [Baidu Netdisk](https://pan.baidu.com/s/1zYGCQWI9dvLOjZZcFA6nYw?pwd=ggxv).
