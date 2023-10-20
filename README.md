@@ -20,8 +20,7 @@ First, you may need to manually define the data path. Then, you need run the cod
 
 ### 3. Testing
 
-The model in  [website](https://pan.baidu.com/s/1zYGCQWI9dvLOjZZcFA6nYw?pwd=ggxv).
-
+The model in  [Baidu Netdisk](https://pan.baidu.com/s/1zYGCQWI9dvLOjZZcFA6nYw?pwd=ggxv).
 password: ggxv
 
 ### 4. Results.
