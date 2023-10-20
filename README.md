@@ -19,7 +19,7 @@ This is the official implementation of our paper: Cross-modality Spatial-tempora
 First, you may need to manually define the data path. Then, you need run the code on 1 GPU of A6000 with 48G memory. 
 
 ### 3. Testing
-The model in Baidu Netdisk​ BaiduNetdiskhttps://pan.baidu.com/s/1zYGCQWI9dvLOjZZcFA6nYw  
+The model in Baidu Netdisk​  [website]([http://dm.dongguk.edu/link.html](https://pan.baidu.com/s/1zYGCQWI9dvLOjZZcFA6nYw?pwd=ggxv)) 
 password: ggxv
 
 ### 4. Results.
