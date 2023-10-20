@@ -14,6 +14,7 @@ import torchvision.transforms as transforms
 from eval_metrics import eval_sysu, eval_regdb, evaluate
 from model_main import embed_net
 
+
 from utils import *
 from loss import OriTripletLoss, CenterTripletLoss,CrossEntropyLabelSmooth, DC
 from torch.optim import lr_scheduler
